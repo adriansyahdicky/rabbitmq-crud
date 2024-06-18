@@ -1,4 +1,4 @@
-# Spring Boot Kafka CRUD with Flyway
+# Spring Boot Rabbit MQ CRUD with Flyway
 
 This project demonstrates a Spring Boot application that provides CRUD operations for managing employees. It integrates Kafka for messaging and Flyway for database migrations.
 
